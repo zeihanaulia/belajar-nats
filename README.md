@@ -1,6 +1,6 @@
 # Ngulik NATS.io
 
-Contoh contoh kecil implementasi dari NATS.io yang ditulis di [SOTOY](https://sotoy.onrender.com//posts/natsio/ngulik-natsio.html).
+Contoh contoh kecil implementasi dari NATS.io yang ditulis di [SOTOY](https://sotoy.onrender.com/posts/natsio/ngulik-natsio.html).
 
 ## Jalanin NATS
 
